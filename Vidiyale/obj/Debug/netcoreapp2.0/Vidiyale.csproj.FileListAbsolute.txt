@@ -1,0 +1,11 @@
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.csproj.CoreCompileInputs.cache
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.AssemblyInfoInputs.cache
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.AssemblyInfo.cs
+D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.deps.json
+D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.runtimeconfig.json
+D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.runtimeconfig.dev.json
+D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.dll
+D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.pdb
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.dll
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.pdb
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.csprojResolveAssemblyReference.cache
