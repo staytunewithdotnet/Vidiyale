@@ -23,6 +23,7 @@ namespace Vidiyale
                 var services = scope.ServiceProvider;
                 try
                 {
+                    
                     var context = services.GetRequiredService<SchoolContext>();
                     DbInitializer.Initialize(context);
                 }

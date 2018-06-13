@@ -8,4 +8,4 @@ D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.dll
 D:\Workspace\Vidiyale\Vidiyale\bin\Debug\netcoreapp2.0\Vidiyale.pdb
 D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.dll
 D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.pdb
-D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.csprojResolveAssemblyReference.cache
+D:\Workspace\Vidiyale\Vidiyale\obj\Debug\netcoreapp2.0\Vidiyale.csprojAssemblyReference.cache
